@@ -1,3 +1,6 @@
 [submodule "submodules/GpsListener"]
 	path = submodules/GpsListener
 	url = https://github.com/fedegara/GpsListener.git
+[submodule "submodules/MapChat"]
+	path = submodules/MapChat
+	url = https://github.com/fedegara/mapchat
