@@ -1,6 +1,8 @@
 [submodule "submodules/GpsListener"]
 	path = submodules/GpsListener
 	url = https://github.com/fedegara/GpsListener.git
+	branch = 1.0.0
 [submodule "submodules/MapChat"]
 	path = submodules/MapChat
 	url = https://github.com/fedegara/mapchat
+	branch = 1.0.0
