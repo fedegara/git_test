@@ -1,0 +1,3 @@
+[submodule "submodules/GpsListener"]
+	path = submodules/GpsListener
+	url = https://github.com/fedegara/GpsListener.git
